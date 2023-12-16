@@ -4,4 +4,4 @@ checking amend command by shazim
 adding content to merge in shazims commit
 
 
-trying to add remote repository
+trying to add remote repository12
